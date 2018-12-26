@@ -1,5 +1,11 @@
 # Modeling The Stanford Housing Draw
-## Process Simple Query (processQuery.py)
+Current functionality:
+* Process single simple queries
+* Clean housing data
+Upcoming functionality:
+* Let students assume a drawing number and see which houses they can get into
+* Run Monte Carlo simulations on multiple simple queries to determine likeliest housing outcomes
+## Process Single Simple Queries (processQuery.py)
 A simple query will allow a student to input a single housing draw scenario so they can see what chance they have to get certain housing given their gender, tier number, desired residence/room type, and amount of people in applicant group.
 
 Simply, this functionality will answer the following query with a probability: <br>
