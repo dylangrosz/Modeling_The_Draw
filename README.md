@@ -2,6 +2,7 @@
 Current functionality:
 * Process single simple queries
 * Clean housing data
+
 Upcoming functionality:
 * Let students assume a drawing number and see which houses they can get into
 * Run Monte Carlo simulations on multiple simple queries to determine likeliest housing outcomes
