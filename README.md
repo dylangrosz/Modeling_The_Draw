@@ -1,6 +1,8 @@
 # This repository is deprecated
 This project was moved to *[The Stanford Daily's Tech Team repository](https://github.com/TheStanfordDaily/StanfordDaily-DataViz/tree/master/projects/ModelingTheDraw)* and is hosted in a *[Stanford Daily article](https://www.stanforddaily.com/2019/04/19/modeling-the-draw/)*
 
+_Documentation continued down below..._
+
 # Modeling The Stanford Housing Draw
 Current functionality:
 * Process single simple queries
