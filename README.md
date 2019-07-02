@@ -1,3 +1,6 @@
+# This repository is deprecated
+This project was moved to *[The Stanford Daily's Tech Team repository](https://github.com/TheStanfordDaily/StanfordDaily-DataViz/tree/master/projects/ModelingTheDraw)* and is hosted in a *[Stanford Daily article](https://www.stanforddaily.com/2019/04/19/modeling-the-draw/)*
+
 # Modeling The Stanford Housing Draw
 Current functionality:
 * Process single simple queries
@@ -13,3 +16,4 @@ Simply, this functionality will answer the following query with a probability: <
 I am a *[gender]* applying as *[applyType]*. If I apply for a *[roomType]* in *[resName]* using tier *[tierNum]*, what are my chances of getting in?
 ## Clean Housing Data (cleanHousingData.py)
 Take raw housing data from *[Stanford R&DE Historical Draw Numbers](https://rde.stanford.edu/studenthousing/historical-draw-statistics)* and clean and standardize the data.
+
